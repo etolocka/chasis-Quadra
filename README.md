@@ -8,6 +8,8 @@ Se incluyen cuatro agujeros para fijar la "rueda loca", cuatro para fijar la pla
 
 Sobre la rueda loca se ubica una segunda pieza para sostener el portabaterías que aloja dos baterías del tipo 18650 (está elevado para que no interfiera con los tornillos que sujetan la rueda loca).
 
+En la parte frontal cuenta con un soporte y agujeros para montar accesorios como placas con leds, seguidor de línea, etc.
+
 Su nombre "Quadra" está relacionado con la forma del chasis, que se aproxima a un cuadrado.
 
 Este chasis ha demostrado una gran estabilidad y resistencia, teniendo un tamaño cómodo y conveniente.
