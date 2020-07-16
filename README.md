@@ -11,3 +11,7 @@ Sobre la rueda loca se ubica una segunda pieza para sostener el portabaterías q
 Su nombre "Quadra" está relacionado con la forma del chasis, que se aproxima a un cuadrado.
 
 Este chasis ha demostrado una gran estabilidad y resistencia, teniendo un tamaño cómodo y conveniente.
+
+
+![Quadra](https://github.com/etolocka/chasis-Quadra/blob/master/imagenes/chasis_quadra.jpg?raw=true)
+
