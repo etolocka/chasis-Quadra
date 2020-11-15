@@ -17,5 +17,5 @@ Este chasis ha demostrado una gran estabilidad y resistencia, teniendo un tamañ
 
 ![Quadra](https://github.com/etolocka/chasis-Quadra/blob/master/imagenes/chasis_quadra.jpg?raw=true)
 
-![Quadra](https://github.com/etolocka/chasis-Quadra/blob/master/imagenes/robot.jpg?raw=true)
+![Nano](https://github.com/etolocka/chasis-Quadra/blob/master/imagenes/robot.jpg?raw=true)
 
